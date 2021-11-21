@@ -1,5 +1,5 @@
 function randomNumber(rangeStart, rangeEnd) {
-	let result = Math.random() * (rangeEnd - rangeStart + rangeStart)
+	let result = Math.random() * ((rangeEnd - rangeStart) + rangeStart)
 	return result
 }
 
