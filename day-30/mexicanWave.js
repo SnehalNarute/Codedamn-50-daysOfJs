@@ -10,6 +10,8 @@ function wave(str) {
 	return waves
 }
 
-console.log(wave('hello'))
-console.log(wave('two words'))
-console.log(wave('gap'))
+console.log(wave('hello')) // ['Hello', 'hEllo', 'heLlo', 'helLo', 'hellO']
+
+console.log(wave('two words')) // ['Two words', 'tWo words', 'twO words', 'two Words', 'two wOrds', 'two woRds', 'two worDs', 'two wordS']
+
+console.log(wave('gap')) // ['Gap', 'gAp', 'gaP']
