@@ -4,8 +4,7 @@ Codedamn 50 days of JS challenge
 <!DOCTYPE html>
 <html>
   <head> 
-      <meta charset ="utf-8"> 
-      <title>%0 days of JS</title> 
+      <meta charset = "utf-8">
    </head> 
   <body>
   <div>
